@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3892B6FF-D7EE-45DC-A777-03005B5F2301",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75C1859A-E6BA-449C-A37F-89747DE2C6D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "216A984F-3E15-43A7-9323-8084FCCFB5AA",
+    "height": 36,
+    "width": 71,
+    "x": 850,
+    "y": 432
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/buttons/primary/hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82AB1ADC-1221-4A2A-BF43-87233D1BB4F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52CF4603-09FC-49F5-9B4A-01F58AEDF323",
+  "verticalSpacing": 0
+}
